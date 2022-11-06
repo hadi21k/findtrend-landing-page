@@ -6,9 +6,9 @@ import Social5 from "../../assets/social media5.png";
 import Social6 from "../../assets/social media6.png";
 import Social7 from "../../assets/social media7.png";
 import Social8 from "../../assets/social media8.png";
-import Tweet1 from "../../assets/tweet 1.png";
-import Tweet2 from "../../assets/tweet 2.png";
-import Tweet3 from "../../assets/tweet 3.png";
+import Tweet1 from "../../assets/tweet 1.webp";
+import Tweet2 from "../../assets/tweet 2.webp";
+import Tweet3 from "../../assets/tweet 3.webp";
 import Title from "../../ui/Title";
 
 const Platform = () => {

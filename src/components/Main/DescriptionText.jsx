@@ -28,7 +28,7 @@ const DescriptionText = () => {
 
   return (
     <div ref={ref} className="overflow-y-hidden bg-white text-black">
-      <div className="container mx-auto grid min-h-[400px] place-items-center text-4xl font-bold">
+      <div className="container mx-auto grid min-h-[600px] place-items-center text-4xl font-bold">
         <motion.h1 className="max-w-5xl max-sm:p-6">
           <motion.span style={{ color: fadeOut }}>
             Findtrend helps you to increase your productivity and reduce your

@@ -1,4 +1,4 @@
-import Logo from "../../assets/logo color.png";
+import Logo from "../../assets/Logo color.png";
 import Button from "../../ui/Button";
 import { Link } from "react-router-dom";
 import Menubar from "../../ui/Menubar";

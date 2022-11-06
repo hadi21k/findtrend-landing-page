@@ -17,7 +17,7 @@ const Platform = () => {
       <div className="container mx-auto grid place-items-center space-y-6">
         <Title text="All platform in one place" />
         <div className="px-12">
-          <div className="grid grid-cols-4 gap-10 lg:grid-cols-8">
+          <div className="grid grid-cols-2 gap-10 sm:grid-cols-4 lg:grid-cols-8">
             <div className="grid h-[80px] w-[80px] place-items-center rounded-2xl bg-white">
               <img
                 src={Social8}

@@ -1,9 +1,9 @@
 import Button from "../../ui/Button";
 import Arrow from "../../assets/arrow white.svg";
-import Tab1 from "../../assets/Tab1.png";
-import Tab2 from "../../assets/Tab2.png";
-import Tab3 from "../../assets/Tab3.png";
-import Tab4 from "../../assets/Tab4.png";
+import Tab1 from "../../assets/tab1.png";
+import Tab2 from "../../assets/tab2.png";
+import Tab3 from "../../assets/tab3.png";
+import Tab4 from "../../assets/tab4.png";
 import BgImage from "../../ui/BgImage";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
